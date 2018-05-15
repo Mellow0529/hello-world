@@ -1,2 +1,3 @@
 # hello-world
-Just another repositry
+Just another repositry.
+A student fighting against procrastination.
